@@ -1,0 +1,10 @@
+todo_list/
+__pycache__/
+*.pyc
+db.sqlite3
+*.log
+*.pot
+*.py~
+.DS_Store
+.idea/
+.vscode/
